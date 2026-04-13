@@ -1,3 +1,6 @@
 /.env
 **/bin
-**/obj
+**/obj/*
+src/TODO.Api/bin
+src/**/bin/*
+src/**/obj/*

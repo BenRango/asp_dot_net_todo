@@ -140,3 +140,4 @@ D:\Programmation\asp_dot_net_todo\src\TODO.Api\bin\Debug\net10.0\AWSSDK.Core.dll
 D:\Programmation\asp_dot_net_todo\src\TODO.Api\bin\Debug\net10.0\AWSSDK.Extensions.NETCore.Setup.dll
 D:\Programmation\asp_dot_net_todo\src\TODO.Api\bin\Debug\net10.0\AWSSDK.S3.dll
 D:\Programmation\asp_dot_net_todo\src\TODO.Api\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Programmation\asp_dot_net_todo\src\TODO.Api\obj\Debug\net10.0\TODO.Api.sourcelink.json
